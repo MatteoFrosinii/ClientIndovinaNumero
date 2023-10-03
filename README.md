@@ -1,6 +1,6 @@
 # ClientIndovinaNumero
-Questo client usa un protocollo con in comune col rispettivo ServerIndovinaNumero.
-La porta su cui avviene questa comunicazione è la 2750.
+Questo client usa un protocollo con in comune col rispettivo ServerIndovinaNumero. <br>  
+La porta su cui avviene questa comunicazione è la 2750. <br> 
 Il protocollo è il seguente:
 | Stringa ricevuta | Significato                                                                               | Effetto sul client                                                                                      |
 |------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
